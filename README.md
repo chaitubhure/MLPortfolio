@@ -1,17 +1,5 @@
 # Data Scientist
 
----
-layout: default
----
-
-<p align="center">
-  <img src="{{ site.logo }}" alt="Chaitanya Bhure" width="150" style="border-radius: 50%;">
-</p>
-
-# Welcome to My Portfolio
-
-Hi, I'm Chaitanya. I specialize in data science, machine learning, and healthcare analytics. Check out my projects below!
-
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
